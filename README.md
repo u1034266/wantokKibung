@@ -1,6 +1,6 @@
 wantokKibung
 ============
-# Wantok Kibung - Website README
+# Wantok Kibung - README
 Private project to create a "wantok kibung" site for a client.
 
 ## Overview
